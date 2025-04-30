@@ -1,2 +1,2 @@
-# Transformer-from-scratch-
-Transformer from scratch 
+## Transformer-from-scratch
+thanks to umar jamil
